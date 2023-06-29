@@ -104,7 +104,7 @@ For further information see the [pdf-based C-CDA specification](http://www.hl7.o
 </tr>
 <tr>
 <td>Benjamin Flessner</td>
-<td><a href="mailto:benjamin@redoxengine.com">benjamin@redoxengine.com</a></td>
+<td><a href="mailto:b.d.flessner@gmail.com">b.d.flessner@gmail.com</a></td>
 </tr>
 <tr>
 <td>Brett Marquard</td>
